@@ -1,0 +1,253 @@
+
+body{
+	background-image:url("Images/c.png");
+	background-attachment: fixed;
+	background-size:unset;
+}
+.pt{
+	margin-top: 50px;
+}
+.port{
+	font-family:sans-serif;
+	font-weight: 100px;
+	font-size: 20px
+}
+a[href="#"]{
+	color:default;
+}
+.About{
+	font-family:default;
+	font-size:30px;
+	font-family: 'Righteous', cursive;-
+}
+.container1{
+	margin-top:50px;
+}
+.container2{
+	margin-top:100px;
+
+}
+
+.build{
+	margin-top:250px;
+}
+
+.DC{
+	margin-left: 0px;
+	font:small-caption;
+
+}
+.contact{
+	font-family:Times, serif;
+	color: #FFDEAD;
+	border-radius: 3px;
+	font-style: oblique
+}
+.project{
+	margin-left: 700px;
+	font:caption;
+	font-family: cursive;
+	font-size: 30px
+}
+.contactme{
+	background-image:linear-gradient(rgba(10,10,10,0.2),rgba(10,10,10,0.2)),url("Images/emma-matthews-973230-unsplash.jpg");
+	background-size: cover;
+	border-radius: 5px;
+	overflow: hidden;
+}
+
+.note{
+	color: red;
+}
+.font-awesome{
+	margin-left:10%;
+}
+.rounded-image{
+	border-radius:;
+	height: 200px;
+	
+}
+.next{
+	background-color:#4CAF50;
+	color: white;
+	padding:10px;
+	border-radius:10px;
+	
+}
+.m-next{
+	background-color:#4CAF50;
+	color: white;
+	padding:10px;
+	border-radius:10px;
+}
+.nxt{
+	margin-left:0em;
+	margin-bottom:30px;
+}
+.previous{
+	background-color:#4CAF50;
+	color: white;
+	padding:10px;
+	border-radius:10px;
+	margin-left:2%;
+}
+.wowslider{
+	
+}
+.mide-head{
+	font-family:cursive;
+	font-size:3px;
+	margin-left:3%
+}
+.sentences{
+	margin-right:10px;
+	font-size: small;
+	font-family: 'Ubuntu Condensed', sans-serif;
+}
+.end{
+	background-color:black;
+	font-weight:70%;
+	color: white;
+	border-radius: 3px;
+	margin-left:0px;
+}
+.favourite{
+	background-color:grey;
+	color: white;
+}
+.mb{
+	background-color:grey;
+} 
+.logoimage{
+	border-radius:10%;
+	width: 300px;
+}
+.html_image{
+	border-radius:50%; 
+	height:400px;
+	width:100px;
+}
+.css_image{
+	border-radius:50%;
+	height:400px;
+	width:100px;
+}
+.js_image{
+	border-radius:50%;
+	height:400px;
+	width:100px;
+}
+.c_image{
+	border-radius:50%;
+	height:400px;
+	width:100px;
+}
+.mysql_image{
+	border-radius:50%;
+	height:400px;
+	width:100px;
+}
+.footer{
+	padding:5px
+}
+
+.mide{
+	font-size: 20px;
+	margin-left: 10em
+}
+.mide-wow{
+	margin-top:3em;
+}
+.pro{
+	font-size:30px; 
+	margin-top: 40px;
+	font-style: oblique;
+}
+.skill{
+	font-size: 15px;
+	font-style: default;
+	margin-top: 1em;
+	margin-bottom: 1em;
+
+
+}
+.float{
+    position: fixed;
+    width: 60px;
+    height: 60px;
+    bottom: 40px;
+    background-color: #25d366;
+    color: #fff;
+    border-radius: 50px;
+    text-align: center;
+    margin-top: 6em;
+    font-size: 30px;
+    box-shadow: 2px 2px 3px #999;
+    z-index:100 ;
+}
+.my-float{
+    margin-top: 16px;
+}
+.web{
+	font-style: oblique;
+}
+.sk{
+	background-image: url("Images/tech-meeting-2.jpg");
+	background-size: contain;
+	background-attachment: unset;
+	overflow: hidden;
+}
+.advert{
+	background-image:linear-gradient(rgba(10,10,10,0.2),rgba(10,10,10,0.2)),url("Images/networking 2.png");
+	background-size: contain;
+	background-repeat:repeat;
+	background-attachment: unset;
+	overflow: hidden;
+}
+.pr{
+	color: default;
+}
+.wrapper{
+	overflow: hidden;
+}
+.sliding-background{
+	background: url("Images/diversity.png");
+	background-size: cover;
+	height: 560px;
+	width: 5076px;
+	animation: slide 60s linear infinite;
+}
+
+.trademark{
+	font-family: 'Lobster Two', cursive;
+	background-color: black;
+	color: white;
+	padding-bottom: 10px;
+	padding-top: 10px;
+}
+.partners{
+	font-family: 'Lacquer', ;
+}
+.font{
+	background-color: lightgrey;
+	width: 45px;
+	height: 45px;
+	text-align: center;
+	padding: 5px 5px;
+	
+}
+.info{
+	background-image: url("images/charles-6OF-Ly-5oJY-unsplash.jpg");
+	background-size: cover;
+	padding: 5px;
+}
+.boot{
+    font-family: cursive;
+    font-style: oblique;
+}
+.mute{
+    font-family: serif;
+}
+.nv{
+	background-color: teal;
+}
